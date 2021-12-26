@@ -1,6 +1,6 @@
 # school-memes
 
-A meme displayer I made for one of my friends back in high school around 2018. Utilizes React Native and Expo to run directly as an IOS or Android application, as opposed to in the web. 
+A meme displayer I made for one of my friends back in high school around 2018. Utilizes React Native and Expo to run directly as an IOS or Android application, as opposed to in the web. Intended as a humurous joke for friends, as well as an excuse to experiment with Expo!
 
 **No longer maintained**
 
