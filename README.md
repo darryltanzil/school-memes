@@ -11,3 +11,6 @@ A meme displayer I made for one of my friends back in high school around 2018. U
 ## Gallery
 
 ![Screenshot_20181120-183650_Expo](https://user-images.githubusercontent.com/5387769/147402558-87d1dd2e-c4e9-4743-8bca-dab1f5accffe.jpg)
+
+![image](https://user-images.githubusercontent.com/5387769/147402652-5d6d5417-221d-4529-98c5-e5fa2eac4279.png)
+
